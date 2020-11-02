@@ -1,0 +1,1 @@
+module "huaweicloud-obs-sdk-go"
